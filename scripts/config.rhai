@@ -1,14 +1,26 @@
-let titles_keyword = ["Knowledge", "Knowledge Base", "KB", "Reasoning", "Grounding", "Semantic Parsing", "Code"];
+let keywords = [
+"shell model",
+"nuclear structure",
+"Sn100",
+"Sn-100",
+"ab initio",
+"chiral EFT",
+"Gamow shell model",
+"IMSRG",
+"coupled cluster",
+"nuclear force",
+"three body force"
+];
 let titles_model = ["GPT", "OPT", "Transformer"];
 let titles_method = ["Prompt", "Few-shot", "Prompting", "Tuning", "Zero-shot"];
 let titles =  titles_model + titles_method + titles_keyword;
-let authors_array = ["Yann LeCun", "Geoffrey Hinton", "Yoshua Bengio", 
-"Percy Liang", "Danqi Chen", "Yejin Choi", "Jonathan Berant", "Jason Wei", 
-"Luke Zettlemoyer", "Jason Eisner", "Christopher D. Manning", "Chelsea Finn", 
-"Yi Tay", "Dan Roth", "Dan Klein", "Mirella Lapata", "Scott Yih", "Wen-tau", "Yoav", 
-"Xiang Ren", "William Wang", "Jacob Andreas", "Graham Neubig", "Noah Smith", 
-"Matt Gardner", "Ben Bogin", "Sameer Singh", "Jure Leskovec", "Heng Ji", 
-"Jessy Li", "He He", "William Cohen", "Dan Jurafsky", "Hal Daume III", "Quoc Le"];
+let authors_array = [
+"Otsuka",
+"Holt",
+"Menendez",
+"Navratil",
+"Coraggio"
+];
 
 let conferences = [
     // AI
