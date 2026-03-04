@@ -1,3 +1,11 @@
+let titles_keyword = [
+"shell model",
+"nuclear structure",
+"Sn100",
+"IMSRG",
+"chiral EFT",
+"ab initio"
+];
 let keywords = [
 "shell model",
 "nuclear structure",
